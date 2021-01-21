@@ -1,3 +1,3 @@
-# hello-world
-test
-this is a test of the emergency code system. This is only a test.
+# converters
+
+This is a collection of scripts which can quickly convert one file type into another.
